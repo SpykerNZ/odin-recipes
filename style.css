@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+a {
+    font-size: 32px;
+}
+
+div {
+    margin-top: 10px;
+}
